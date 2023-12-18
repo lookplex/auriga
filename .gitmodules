@@ -1,0 +1,3 @@
+[submodule "dependencies/gaussian-splatting"]
+	path = dependencies/gaussian-splatting
+	url = https://github.com/graphdeco-inria/gaussian-splatting
